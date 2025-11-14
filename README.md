@@ -1,2 +1,2 @@
 # MyNotes
-RESPONSI : Selesai Mengerjakan Plikasi MyNotes
+RESPONSI : Selesai Mengerjakan Alikasi MyNotes
